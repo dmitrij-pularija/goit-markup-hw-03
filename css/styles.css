@@ -215,7 +215,7 @@ body {
 }
 .footer_styles {
     background-color: #2F303A;
-    height: 252px;
+    height: 192px;
     padding-top: 60px;
 }
 
@@ -358,12 +358,12 @@ body {
 .box_styles {
     margin-left: 30px;
 }
+.team_background {
+    background: #F5F4FA;
+}
 
 .team_header {
-    margin-top: -94px;
-    margin-bottom: 0px;
-    padding-top: 94px;
-    background: #F5F4FA;
+    margin: 0;
     font-family: 'Roboto';
     font-style: normal;
     font-weight: 700;
@@ -375,10 +375,7 @@ body {
 }
 
 .team {
-    background: #F5F4FA;
-    margin-top: 0px;
-    margin-bottom: -94px;
-    padding-bottom: 94px;
+    margin: 0;
     padding-left: 185px;
     padding-top: 50px;
     list-style-type: none;
